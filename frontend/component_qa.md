@@ -1,5 +1,7 @@
 # Component QA
 
+[Component QA in design systems](https://medium.com/eightshapes-llc/component-qa-in-design-systems-b18cb4decb9c)
+
 ## Visual Quality
 
 Component style should use appropriate variables from design system like color, typography, icons, space, and borders. It should meet the overarching visual guidelines (e.g. flat or minimalist)
