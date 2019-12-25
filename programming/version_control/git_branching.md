@@ -1,6 +1,8 @@
-Site: https://learngitbranching.js.org
+# Git Branching
 
-### Relative Refs
+[Learn Git Branching](https://learngitbranching.js.org)
+
+## Relative Refs
 
 To chck out the commit above master (move HEAD to above master)
 
@@ -14,7 +16,7 @@ Move the number of commits back with `~`. This moves the head up the branch.
 
 `git checkout HEAD~4`
 
-### Branch forcing
+## Branch forcing
 
 Use relative refs to move branches around. You can directly reassign a branch to a commit with the `-f` option.
 
@@ -24,7 +26,7 @@ Use relative refs to move branches around. You can directly reassign a branch to
 
 This moves the master branch to three parents behind `HEAD`.
 
-### Git Reset
+## Git Reset
 
 `git reset` reverts changes by moving a branch reference backwards in time to an older commit. This is like rewriting history.
 
@@ -34,7 +36,7 @@ While this works locally, it doesn't work for rewriting history on a remote bran
 
 `git revert HEAD` creates a brand new commit that introduces changes. Those changes just happen to exactly remove the previous commit's changes. Now you can push your new changes to others.
 
-### Cherry pick
+## Cherry pick
 
 `git cherry-pick C2 C4` can be used to move commits to the current branch.
 
@@ -61,6 +63,7 @@ If you leave the commit off, git will just use whatever `HEAD` is at.
 `git tag v1`
 
 ## Traversing tree
+
 Check out commit directly above HEAD
 
 `git checkout HEAD~`
