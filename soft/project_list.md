@@ -63,3 +63,8 @@ http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/
 ## Choosr
 
 ## Dog Adoption Center
+
+## Swipe Brick Breaker in the Terminal
+
+- https://github.com/vsergeev/snake.ts
+- https://github.com/chjj/blessed
