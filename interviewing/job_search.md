@@ -63,6 +63,13 @@
 - contact people after applying, it puts you into a "smaller pool of people"
 - consider having a website to showcase your work
 
+[A lot of toxic traits surfaced in me when applying to jobs. Here's how to avoid my mistakes.](https://www.reddit.com/r/cscareerquestions/comments/cgtrfq/a_lot_of_toxic_traits_surfaced_in_me_when/)
+
+- Don't let shame take control of you
+- Assure close ones this is temporary
+- Remember that your career is not your life
+- Have a non-tech hobby
+
 ## Job Search Resources
 
 - [Triplebyte](https://triplebyte.com/)
