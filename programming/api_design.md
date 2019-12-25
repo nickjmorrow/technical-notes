@@ -1,5 +1,15 @@
 # Api Design
 
+## [If you want to design good APIs, start thinking like a designer](https://medium.com/livefront/if-you-want-to-design-good-apis-start-thinking-like-a-designer-9fbb22273ff2)
+
+- When looking at an API, imagine a new user stumbling onto it. Imagine how easy or hard it would be for them to guess at how to use the API without reading any documentation
+- Using strongly typed return types and parameters makes different parts of the API more discoverable (as opposed to using something like strings)
+
+## [Pit of Success](https://blog.codinghorror.com/falling-into-the-pit-of-success/)
+
+- Should be easy to "make the right choices", whether with an API, a console app, or a web app.
+- Easy to follow best practices and harder (but not impossible) to follow wrong practices
+
 ## Terminologies
 
 A resource is an object or representation f somethig, which has some data associated iwith it and there can be a seto f methods to operate it on it.
