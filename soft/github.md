@@ -85,6 +85,10 @@ Run unit tests and snapshot tests.
 `npm run test`
 ```
 
+## Finishing Touches
+
+- [Keep your .env in sync with .env.example](https://github.com/codeshifu/sync-dotenv)
+
 ## Resources
 
 [What I learned from an old github project that won 3000 stars in a week](https://medium.freecodecamp.org/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14)
