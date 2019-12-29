@@ -27,3 +27,19 @@
     - ocaml/reason
     - go
     - scheme
+
+## Pragmatic Programmer
+
+- the greatest of all weaknesses is the fear of appearing weak
+- knowledge and experience are your most important professional assets
+- learn at least one new language ever year
+- read a technical book each quarter. the nonce a month.
+- participate in local user groups.
+- experiment with different environments (try linux).
+- try different tools (IDE vs editor)
+- subscribe to interesting publications
+- once you feel comfortable with some language or bit of technology, move on. learn another one.
+- process of learning will expand your thinking, opening you to new possibilities and new ways of doing things
+- always respond to emails and voice mails, even if the response is simply "i'll get back to you later."
+- foster an environment where it's easier to find and reuse exciting stuff than to write it yourself.
+- tag bug fixes when you check the code back in after testing. run monnthly reports analyzing trends in the number of source files affected by each bug fix.
