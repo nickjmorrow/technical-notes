@@ -20,7 +20,7 @@
     - scheme, lisp, clojure(script)
     - change how you see code
   - read "structure and interpreation of computer programs"
-  - try a new lannguage to have a new way of thinking
+  - try a new language to have a new way of thinking
     - clojure
     - rust
     - elm
