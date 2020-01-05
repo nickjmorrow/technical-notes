@@ -70,8 +70,35 @@
 - Remember that your career is not your life
 - Have a non-tech hobby
 
+[Getting a gig](https://github.com/cassidoo/getting-a-gig)
+
+TODO: Getting a gig
+
 ## Job Search Resources
 
 - [Triplebyte](https://triplebyte.com/)
 - [Hired](https://hired.com)
 - [Rooftop Slushie](https://rooftopslushie.com)
+- [LinkedIn]
+- [Ziprecruiter]
+- [Dice]
+- [Indeed]
+- [AngelList]
+- [Glassdoor]
+- [Greenhouse.io]
+- [jobs.lever.co]
+- [applytojob.com]
+- [workable.com]
+- [Jobvite]
+- [Careerbuilder]
+
+## Google Search
+
+```misc
+site:.applytojob.com/apply//* OR site:jobs.lever.co/* OR site:.recruitee.com OR site:jobs.jobvite.com/ OR site:boards.greenhouse.io/* OR site:.workable.com/jobs/ (software OR engineer OR developer) AND ({AREA1} OR {AREA2} OR {AREA3})
+```
+
+## Resume Optimization
+
+- [Job Scan](https://www.jobscan.co/)
+-

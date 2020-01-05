@@ -25,7 +25,7 @@
     - rust
     - elm
     - ocaml/reason
-    - go
+    - gos
     - scheme
 
 ## Pragmatic Programmer

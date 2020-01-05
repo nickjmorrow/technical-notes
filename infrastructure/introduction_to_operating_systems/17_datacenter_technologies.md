@@ -1,15 +1,14 @@
 # Datacenter Technologies
 
-1. lesson preview
-    1.
+1. lesson preview 1.
 2. quiz: data center
 3. internet services
-    1. internet service: any type of service provided via web interface
-    2. 3 main goals
-        1. presentation: static content
-        2. business logic: dynamic content
-        3. database tier: data store
-    3. middleware: supporting, integrative or value-added software technologies
+   1. internet service: any type of service provided via web interface
+   2. 3 main goals
+      1. presentation: static content
+      2. business logic: dynamic content
+      3. database tier: data store
+   3. middleware: supporting, integrative or value-added software technologies
 4. internet service architectures
 5. "homogenous" architectures
 6. "heterogenous" architectures
