@@ -8,6 +8,22 @@ TODO:
 
 ## Generic
 
+### Tell me about yourself
+
+### What is a time you had a conflict with a team member, and how did you resolve it?
+
+### What is something your team can improve on?
+
+### What are you actively trying to improve on?
+
+### What was a big hurdle you had on a project and how did you overcome it?
+
+### Why are you switching jobs?
+
+### How do you handle connflict / anger?
+
+### Tell me about a time you disagreed with a team lead / tech lead / product manager?
+
 ### Where do you see yourself in 5 years?
 
 - A go-to person for an application or set of applications

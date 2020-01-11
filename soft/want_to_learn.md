@@ -14,16 +14,6 @@ Ordered from small to large.
 
 Should take a weekend.
 
-- advanced javascript
-  [x] generators
-  [x] decorators
-  [x] promises, callbacks, async/await
-  [x] class vs prototypical inheritance
-  [x] dependency injection
-  [x] this, bind, call, apply
-  [x] transducers
-  [ ] engine
-  [x] template literals as functions
 - functional terminology
   - monad
   - algebraic effects
@@ -34,9 +24,9 @@ Should take a weekend.
   - cookies
   - local storage
   - jwt
-- API doc automation
+- typedoc
 - storybook
-- accessibility
+- styleguideist
 - expressions / ASTs / LINQ-to-SQL
 - advanced react
   - hooks
@@ -56,6 +46,9 @@ Should take a weekend.
 - vim / aligning keyboard shortcuts
 - ci/cd as a concept
   - then maybe expand into reading about top CI/CD tools, like travis ci, netlify
+- TDD
+- Domain Driven Design
+- Extreme Programming
 
 #### Medium
 
