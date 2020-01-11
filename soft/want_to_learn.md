@@ -24,7 +24,6 @@ Should take a weekend.
   - cookies
   - local storage
   - jwt
-- typedoc
 - storybook
 - styleguideist
 - expressions / ASTs / LINQ-to-SQL
