@@ -16,7 +16,6 @@ Should take a weekend.
 
 - functional terminology
   - monad
-  - algebraic effects
 - advanced typescript
   - conditional types
 - bash and unix commands
@@ -24,13 +23,7 @@ Should take a weekend.
   - cookies
   - local storage
   - jwt
-- storybook
-- styleguideist
-- expressions / ASTs / LINQ-to-SQL
 - advanced react
-  - hooks
-    - useEffect
-  - higher order components
   - performance best practices
     - memoization
   - testing
@@ -45,9 +38,6 @@ Should take a weekend.
 - vim / aligning keyboard shortcuts
 - ci/cd as a concept
   - then maybe expand into reading about top CI/CD tools, like travis ci, netlify
-- TDD
-- Domain Driven Design
-- Extreme Programming
 
 #### Medium
 
@@ -60,13 +50,9 @@ Stuff that I don't really have a hook into yet, so hard to estimate how long it 
   - mocha
   - sinon
 - graphQL / apollo
-- databases
-  - execution plans
-  - query tuning
-  - physical joins
-- command-line interfaces
 - webpack
-- vue
+- web components
+- web assembly
 - web security (owasp)
 - gatsby
 
@@ -76,11 +62,14 @@ Would take 2-4 weeks.
 
 - containers, docker, kubernetes
 - networking
-- functional language
-- low-level language (e.g. learn Rust or CPP or something)
+- low-level language (e.g. learn Rust or CPP or Go)
 - compilers
 - system design
 - web graphics
+- databases
+  - execution plans
+  - query tuning
+  - physical joins
 - foundational books
   - clean code
   - clean coder
@@ -89,12 +78,13 @@ Would take 2-4 weeks.
   - software craftsman
   - test driven development by example
   - building microservices
-- polish 3 existing projects (map clustering, portfolio, weird weather)
-- put out 3 new projects
+- Test Driven Development
+- Domain Driven Design
+- Behavior Driven Design
+- Extreme Programming
 
 ### Removed / Deprecated / Changed Mind
 
-- svelte
 - electron
 - arduino / raspberry pi
 - native development
