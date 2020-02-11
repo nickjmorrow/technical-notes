@@ -78,6 +78,7 @@ Would take 2-4 weeks.
   - software craftsman
   - test driven development by example
   - building microservices
+  - https://book.git-scm.com/book/en/v2
 - Test Driven Development
 - Domain Driven Design
 - Behavior Driven Design
