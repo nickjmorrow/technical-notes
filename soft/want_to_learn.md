@@ -61,8 +61,13 @@ Would take 2-4 weeks.
   - refactoring - martin fowler
   - bdd in action - john ferguson smart
   - test driven development by example
+<<<<<<< HEAD
   - building microservices - sam newman
   - functional programming in scala - paul chiusano and runar bjarnason
+=======
+  - building microservices
+  - https://book.git-scm.com/book/en/v2
+>>>>>>> 5255cdd8b40fe8828f8c695d14c11577dd72f29f
 - Test Driven Development
 - Domain Driven Design
 - Behavior Driven Design
