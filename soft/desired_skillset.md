@@ -5,8 +5,6 @@
 - TypeScript / JavaScript (workhorse)
 - C# (enterprise)
 - Rust (low-level)
-- Go (low-level)
-- Scala OR some other functional language
 - HTML / CSS (frontend)
 - SQL
 
