@@ -60,8 +60,12 @@ ctrl+k,f: focus explorer
 ctrl+k,e: focus editor
 ctrl+k,o: focus options
 ctrl+k,r: focus results
+
 ctrl+k,t: focus terminal
 ctrl+k,s: focus sidebar
+
+ctrl+shift+k,r: hide results
+ctrl+k,o: focus options
 
 when in focus of area that you are focusing on, close area
 
