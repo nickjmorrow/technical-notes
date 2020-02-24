@@ -1,99 +1,73 @@
 # Want to Learn
 
-### Coding
-
-Ordered from small to large.
-
-#### Attack MO
+## Attack MO
 
 - Start with the small stuff to build up momentum
 - Gradually flesh out and break down the larger stuff
 - Think of everything as "I may eventually write about this"
 
-#### Small
+## Overall Goals
 
-Should take a weekend.
+### Read books to gain a strong foundation
 
-- Keyboard shortcuts alignment
-- CI/CD as a concept
-- Travis CI
-- Netlify
-- Github Actions
+- domain driven design - eric evans
+- clean code - robert martin
+- clean coder - robert martin
+- code complete - robert martin
+- clean architecture - robert martin
+- the software craftsman - robert martin
+- refactoring - martin fowler
+- bdd in action - john ferguson smart
+- test driven development by example - kent beck
+- building microservices - sam newman
+- [imposter's handbook](https://bigmachine.io/products/the-imposters-handbook/)
+- [system design primer](https://github.com/donnemartin/system-design-primer)
+- [extreme programming explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/ref=sr_1_1?keywords=extreme+programming&qid=1581898773&sr=8-1) - kent beck
+- functional programming in scala - paul chiusano and runar bjarnason
+- [Git](https://book.git-scm.com/book/en/v2) - Scott Chacon and Ben Straub
 
-#### Medium
+### Feel satisfied with portfolio
 
-Stuff that I don't really have a hook into yet, so hard to estimate how long it would take. Any of these could reasonably take 1-2 weeks.
+#### Finalize
 
-- front-end testing
-  - jest
-  - enzyme
-  - cypress
-  - mocha
-  - sinon
-- graphQL / apollo
-- webpack
-- web components
-- web assembly
-- web security (owasp)
-- gatsby
+- (m) Finalize Chore Scheduler
+  - nodejs, react, graphql, postgresql, gatsby
+- (m) Finalize React Component Lirbary
+  - react
+- (m) Finalize Map Clustering
+  - c#, typescript, react, ms sql server
+- (m) Finalize Breakbuilder
+  - nodejs, react, postgresql, typescript
+- (m) Finalize Where to Live
+  - nodejs, react, typescript, postgresql
+- (m) Finalize Blog
+- (m) Finalize Portfolio
 
-#### Large
+#### Create
 
-Would take 2-4 weeks.
+- (l) Create project in Rust
+- (m) Ventr
+  - nodejs, react, typescript, postgresql
+- (m) COSDNA clone w/o feature selection
+  - nodejs, react, typescript, postgresql
+- (m) TV Show Information Aggregator
 
-- containers, docker, kubernetes
-- networking
-- low-level language (e.g. learn Rust or CPP or Go)
-- compilers
-- system design
-- web graphics
-- databases
-  - execution plans
-  - query tuning
-  - physical joins
-- foundational books
-  - domain driven design - eric evans
-  - clean code - robert martin
-  - clean coder - robert martin
-  - code complete - robert martin
-  - clean architecture - robert martin
-  - the software craftsman - robert martin
-  - refactoring - martin fowler
-  - bdd in action - john ferguson smart
-  - test driven development by example
-<<<<<<< HEAD
-  - building microservices - sam newman
-  - functional programming in scala - paul chiusano and runar bjarnason
-=======
-  - building microservices
-  - https://book.git-scm.com/book/en/v2
->>>>>>> 5255cdd8b40fe8828f8c695d14c11577dd72f29f
-- Test Driven Development
-- Domain Driven Design
-- Behavior Driven Design
-- Extreme Programming
-- Internet of things
-- arduino / raspberry pi
-- robotics
-- machine learning / data science fundamentals and implementations
-  - random forest
+### Develop blog
 
-#### Mini-Projects
+### Broaden understanding of DevOps
 
-- https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html
-- https://github.com/antsmartian/lets-build-express
-- https://victorzhou.com/blog/build-an-io-game-part-1/
-- https://www.howtographql.com/
-
-#### Questions
-
-- How does the internet work?
-- What is HTTP/S?
-- How do browsers work?
-- How does DNS work?
-- What is a domain name?
-- How does hosting work?
-- How do the following terminal commands work?
+- (s) Research CI/CD as a concept
+- (s) Research Travis CI
+- (s) Research Netlify
+- (s) Research Github Actions
+- (m) Research Docker
+- (m) Research Kubernetes
+- (m) Research Networking
+- (s) Research Elasticsearch
+- (s) Research RabbitMQ
+- (s) Reserch Nginx
+- (s) Research what POSIX is
+- (s) Research the following terminal commannds
   - grep
   - awk
   - sed
@@ -106,35 +80,36 @@ Would take 2-4 weeks.
   - find
   - ssh
   - kill
-- What are basic networking concepts?
-- What are POSIX basics?
-- What is Roy Fielding's paper about?
-- How does JWT authentication work?
-- What are the differences between basic authenticationn and token authentication?
-- What is OAuth?
-- How do hashing algorithms work?
-  - MD5 annd why not to use it
-  - SHA family
-  - scrypt
-  - bcrypt
-- What do the following web security concepts mean?
-  - HTTPS
-  - Content Security Policy
-  - CORS
-  - SSL/TLS
-  - OWASP Security Risks
-- How does a CDN work?
-- How does Redis caching work?
-- How does client-side caching work?
-- How do I test controller endpoints (integration testing)?
-- What is domain driven design?
-- What is test driven development?
-- How does Elasticsearch work?
-- How does RabbitMQ work?
-- How does Apollo work?
-- How does Docker work?
-- How do web sockets work?
-- How does Nginx work?
+
+### Deepen understanding of web technologies
+
+- (s) Research Webpack
+- (s) Research web components
+- (s) Research web assembly
+- (s) Research apollo
+- (m) Research [graphQL](https://www.howtographql.com/)
+- (s) Research OWASP top 10
+- (s) Research web sockets
+- (s) Research client-side caching
+- (s) Research HTTPS vs HTTP
+- (s) Research content security policy
+- (s) Research CORS
+- (s) Research SSL/TLS
+- (m) Read Roy Fielding's paper on REST architecture
+- (s) Research OAuth
+- (s) Research JWT authentication
+- (s) Research [common methods of authentication](https://nordicapis.com/3-common-methods-api-authentication-explained/)
+- (s) Research "how the internet works"
+- (s) Research how browsers work
+- (s) Research how DNS works
+- (s) Research how hosting works
+- (s) Research what goes into domain names
+
+### Deepen understanding of databases
+
+- (m) Research execution plans
+- (m) Research query tuning
+- (m) Research index design
 
 ### Removed / Deprecated / Changed Mind
 
@@ -142,7 +117,18 @@ Would take 2-4 weeks.
 - native development
 - progressive web apps
 - bash commands
+- web graphics
 - functional terminology
   - monad
-- git internals / intermediate-advanced git, branching / repo strategies
-- software craftsman
+- compilers
+- Internet of things
+- arduino / raspberry pi
+- robotics
+- machine learning / data science fundamentals and implementations
+  - random forest
+- front-end testing
+  - jest
+  - enzyme
+  - cypress
+  - mocha
+  - sinon

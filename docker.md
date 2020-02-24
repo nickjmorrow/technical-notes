@@ -39,3 +39,7 @@ Exits the container.
 ## behavior
 
 If the image does not exist locally when you run `docker run`, it will pull it (`docker pull`).
+
+`docker build -t nickjmorrow/nodejs-docker:latest .`
+
+`docker run -p 49160:8080 -d nickjmorrow/nodejs-docker:latest`
